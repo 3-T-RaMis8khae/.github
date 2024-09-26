@@ -1,36 +1,57 @@
-## Hi there 팀 티라미숙해 👋
+# 팀 티라미숙해! 👋
 
-신세계  I&C 및 부산광역시 주관 스파로스 아카데미에서
-2024/08/06 ~ 2024/09/29 까지 진행한 스타벅스 클론코딩 프로젝트 입니다.
-팀원 모두가 mebti T라 미숙한 부분이 있지만 최선을 다해 프로젝트를 진행했습니다.
+### 🏆 스타벅스 클론코딩 프로젝트 (2024/08/06 ~ 2024/09/29)
 
-팀원 소개
+이 프로젝트는 신세계 I&C 및 부산광역시 주관 **스파로스 아카데미**에서 진행된 **스타벅스 클론코딩 프로젝트**입니다.  
+비록 팀원 모두가 "미숙하지만" T라면을 먹으며 최선을 다해 프로젝트를 진행했습니다! 😄
 
-프론트 엔드
-팀장 박신규
-로그인, 회원가입, 상품 조회, 상품 리뷰 조회
+---
 
-백엔드 / CICD
-팀원 김나경
-상품, 카테고리
+## 👨‍👩‍👧‍👦 **팀원 소개**
 
-팀원 백승엽 
-주문, 리뷰, 찜, 상품권, CI/CD, Https, S3
+| **Role**        | **이름**    | **담당 기능**                                              |
+|-----------------|-------------|------------------------------------------------------------|
+| **프론트엔드**   | 박신규 (팀장) | 로그인, 회원가입, 상품 조회, 상품 리뷰 조회                    |
+| **백엔드 / CI/CD** | 김나경       | 상품, 카테고리                                            |
+| **백엔드**       | 백승엽       | 주문, 리뷰, 찜, 상품권, CI/CD, HTTPS, S3                  |
+| **백엔드**       | 신지훈       | 로그인, 회원가입, 배송지, 이벤트                           |
 
-팀원 신지훈
-로그인, 회원가입, 배송지, 이벤트
+---
 
+## 🛠️ **기술 스택**
 
+### **Frontend**  
+- **React**  
+- **JavaScript (ES6)**  
+- **Styled-components**
 
+### **Backend**  
+- **Spring Boot**  
+- **JPA / QueryDSL**  
+- **MySQL**  
+- **Redis**
 
+### **CI/CD**  
+- **GitHub Actions**  
+- **AWS S3**  
+- **Nginx**
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 💡 **프로젝트 소개**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+이 프로젝트는 실제 스타벅스 애플리케이션의 클론을 목표로 하고 있으며, 주요 기능은 다음과 같습니다:
+
+- **회원가입 및 로그인**  
+- **상품 조회 및 리뷰 조회**  
+- **주문 기능**  
+- **이벤트 및 찜 목록 관리**  
+- **상품권 결제 시스템**  
+
+더 많은 정보는 [프로젝트 위키](#)를 참조해 주세요!
+
+---
+
+## 📜 **프로젝트 기간**  
+2024년 8월 6일 ~ 2024년 9월 29일
+
