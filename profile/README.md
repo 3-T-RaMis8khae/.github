@@ -31,7 +31,7 @@
 - **JPA / QueryDSL**  
 - **MySQL**  
 
-### **인프라**  
+### **Infra**  
 - **GitHub Actions**  
 - **AWS S3**  
 - **Nginx**
