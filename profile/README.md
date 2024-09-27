@@ -22,15 +22,16 @@
 
 ### **Frontend**  
 - **NEXTJS**  
-- **으어어어**  
-- **기술**
+- **Next Auth**  
+- **TailWind**
+- **Versel**
 
 ### **Backend**  
 - **Spring Boot**  
 - **JPA / QueryDSL**  
 - **MySQL**  
 
-### **CI/CD**  
+### **인프라**  
 - **GitHub Actions**  
 - **AWS S3**  
 - **Nginx**
